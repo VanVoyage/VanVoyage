@@ -4,12 +4,7 @@
 
 /* Changing the main font and background colour */
 
-body {
-	font-family: "Public Sans", sans-serif;
-	font-style: 
-	background-color: #FFFFFF;
-
-}
+body 
 
 /* Changing the background colour for the header */
 
@@ -48,4 +43,20 @@ footer a:hover {
 		.02em .02em .02em white,
 		0 0 .2em white,
 		0 0 .5em white;
+}
+
+.colKeverne{
+	color:#B1C685
+}
+
+.colDryce{
+	color: #B1C685
+}
+
+.colJamie{
+	color: #FFDE00
+}
+
+.colChantoni{
+	color: #FFDE00
 }
