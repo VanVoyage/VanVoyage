@@ -4,7 +4,12 @@
 
 /* Changing the main font and background colour */
 
-body 
+body {
+	background-color: #ffffff;
+	font-family: "Public Sans", sans-serif;
+	font-style: medium;
+
+}
 
 /* Changing the background colour for the header */
 
