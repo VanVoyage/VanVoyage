@@ -37,7 +37,7 @@ footer a:hover {
 /* Corporate navbar */
 
 #navbar-corporate a.active {
-	color: #800000;
+	color: #B1C685;
 	font-weight: bold;
 }
 
@@ -57,3 +57,9 @@ footer a:hover {
 .colB{
 	background-color: #FFDE00
 }
+
+.cards{
+	color: #B1C685
+	
+}
+
