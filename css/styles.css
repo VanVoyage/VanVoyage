@@ -14,7 +14,7 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	font-family: "Public Sans", sans-serif;
+	font-family: "Public Sans Bold", sans-serif;
 	background-color: #FF883F;
 	
 
@@ -44,6 +44,14 @@ footer a:hover {
 	font-weight: bold;
 }
 
+.background1{
+	background-color: #ffdd007d;
+}
+
+.footerbackground{
+	background-color: #FF883F;
+}
+
 /* Hero Section shadow */
 
 .white-shadow {
@@ -70,6 +78,7 @@ footer a:hover {
 	color: #B1C685
 	
 }
+
 
 .post {
 	margin-bottom: 20px;
