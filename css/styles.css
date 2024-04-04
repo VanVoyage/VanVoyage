@@ -25,6 +25,8 @@ header {
 
 .navbar {
 	background-color: #FF883F;
+	font-family: "Public Sans", sans-serif;
+
 		
 }
 
@@ -38,6 +40,7 @@ footer a:hover {
 
 #navbar-corporate a.active {
 	color: #B1C685;
+	font-family: "Public Sans", sans-serif;
 	font-weight: bold;
 }
 
@@ -48,17 +51,22 @@ footer a:hover {
 		.02em .02em .02em white,
 		0 0 .2em white,
 		0 0 .5em white;
+		font-family: "Public Sans", sans-serif;
+
 }
 
 .colA{
+	font-family: "Public Sans", sans-serif;
 	background-color:#B1C685
 }
 
 .colB{
+	font-family: "Public Sans", sans-serif;
 	background-color: #FFDE00
 }
 
 .cards{
+	font-family: "Public Sans", sans-serif;
 	color: #B1C685
 	
 }
