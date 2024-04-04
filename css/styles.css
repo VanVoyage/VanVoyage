@@ -14,7 +14,7 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	font-family: "Public Sans", sans-serif;
+	font-family: "Public Sans Bold", sans-serif;
 	background-color: #FF883F;
 	
 
@@ -25,6 +25,8 @@ header {
 
 .navbar {
 	background-color: #FF883F;
+	font-family: "Public Sans", sans-serif;
+
 		
 }
 
@@ -38,7 +40,16 @@ footer a:hover {
 
 #navbar-corporate a.active {
 	color: #B1C685;
+	font-family: "Public Sans", sans-serif;
 	font-weight: bold;
+}
+
+.background1{
+	background-color: #ffdd007d;
+}
+
+.footerbackground{
+	background-color: #FF883F;
 }
 
 /* Hero Section shadow */
@@ -48,18 +59,28 @@ footer a:hover {
 		.02em .02em .02em white,
 		0 0 .2em white,
 		0 0 .5em white;
+		font-family: "Public Sans", sans-serif;
+
 }
 
 .colA{
-	background-color:#B1C685
+	font-family: "Public Sans", sans-serif;
+	background-color:#b1c68572
 }
 
 .colB{
-	background-color: #FFDE00
+	font-family: "Public Sans", sans-serif;
+	background-color: #ffdd007d
 }
 
 .cards{
+	font-family: "Public Sans", sans-serif;
 	color: #B1C685
 	
 }
 
+
+.post {
+	margin-bottom: 20px;
+	font-family: "Public Sans", sans-serif;
+}
