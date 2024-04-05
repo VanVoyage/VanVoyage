@@ -16,10 +16,17 @@ body {
 header {
 	font-family: "Public Sans Bold", sans-serif;
 	background-color: #B1C685;
-	
 
 }
 
+.banner1{
+	color: #000000;
+	
+}
+
+.banner5{
+	background-color:#FF883F
+}
 
 /* Changing the background color for the navigation bar */
 
@@ -68,6 +75,9 @@ footer a:hover {
 	
 }
 
+.header1{
+	color: #FF883F
+}
 
 .colA{
     font-family: "Public Sans", sans-serif;
