@@ -93,7 +93,7 @@ footer a:hover {
 
 .cards{
 	font-family: "Public Sans", sans-serif;
-	color: #B1C685
+	color: #B1C685;
 	
 }
 
@@ -101,4 +101,9 @@ footer a:hover {
 .post {
 	margin-bottom: 20px;
 	font-family: "Public Sans", sans-serif;
+}
+
+.buttonfs-4 {
+	font-size: 1.4rem !important;
+	color: #000000;
 }
