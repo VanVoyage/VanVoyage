@@ -5,7 +5,7 @@
 /* Changing the main font and background colour */
 
 body {
-	background-color: #B1C685;
+	background-color: #FFDE00;
 	font-family: "Public Sans", sans-serif;
 	font-style: medium;
 
@@ -24,7 +24,7 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #FF883F;
+	background-color: #B1C685;
 	font-family: "Public Sans", sans-serif;
 
 		
