@@ -5,7 +5,7 @@
 /* Changing the main font and background colour */
 
 body {
-	background-color: #FF883F;
+	background-color: #FFFFFF;
 	font-family: "Public Sans", sans-serif;
 	font-style: medium;
 
@@ -45,7 +45,7 @@ footer a:hover {
 }
 
 .background1{
-	background-color: #FFFFFF;
+	background-color: #B1C685;
 }
 
 .footerbackground{
@@ -65,13 +65,14 @@ footer a:hover {
 
 .colA{
     font-family: "Public Sans", sans-serif;
-    background-color: #b1c685;
+    background-color: #B1C685;
     border-radius: 50px;
 }
 
 .colB{
 	font-family: "Public Sans", sans-serif;
-	background-color: #B1C685
+	background-color: #B1C685;
+	border-radius: 50px;
 }
 
 .cards{
